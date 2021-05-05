@@ -1,6 +1,6 @@
 # Quality-of-Patients-Care
 
-The data has the records on 131 patients suffering from diabaties. It is the history of patients visited the hospital and description of their treatment. Each patient has been handled differently and cured accordingly. Based on the hospitality, it has been reviewed whether the patient recieved good care or not. Predictive models have built based on Logistic reg, SVC and RF classifier algorithms. Such models can be used to review the quality of service providing by the Health care unit.
+The data has the records on 131 patients suffering from diabaties. It is the history of patients visited the hospital and description of their treatment. Each patient has been handled differently and cured accordingly. Based on the hospitality, it has been reviewed whether the patient recieved good care or not. Predictive models have built based on Logistic reg, SVC and KNN classifier algorithms. Such models can be used to review the quality of service providing by the Health care unit.
 
 # Data description
 MemberID numbers the patients from 1 to 131, and is just an identifying number.
